@@ -1,2 +1,2 @@
 # DevHomes-webpage
-Homes landing page using CSS Grid
+Homes landing page created using CSS Grid
